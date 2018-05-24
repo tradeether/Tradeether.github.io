@@ -999,6 +999,7 @@
     { "addr": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac", "name": "BCAP", "decimals": 0 },
     { "addr": "0xff603f43946a3a28df5e6a73172555d8c8b02386", "name": "RNT", "decimals": 18 },
     { "addr": "0xffc63b9146967a1ba33066fb057ee3722221acf0", "name": "A", "decimals": 18 },
+    { "addr": "0x746141bea474ae174f210f99603cf9c44802fe6e", "name": "YOUR", "decimals": 8 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "WABI", "base": "ETH" }
