@@ -1001,6 +1001,7 @@
     { "addr": "0xffc63b9146967a1ba33066fb057ee3722221acf0", "name": "A", "decimals": 18 },
     { "addr": "0x746141bea474ae174f210f99603cf9c44802fe6e", "name": "YOUR", "decimals": 8 },
     { "addr": "0x198a87b3114143913d4229fb0f6d4bcb44aa8aff", "name": "SNBL", "decimals": 8 },
+    { "addr": "0xf463434733b26c6f5e79eb9dbde4b508dedda95c", "name": "SCH", "decimals": 18 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "WABI", "base": "ETH" }
