@@ -1002,6 +1002,11 @@
     { "addr": "0x746141bea474ae174f210f99603cf9c44802fe6e", "name": "YOUR", "decimals": 8 },
     { "addr": "0x198a87b3114143913d4229fb0f6d4bcb44aa8aff", "name": "SNBL", "decimals": 8 },
     { "addr": "0xf463434733b26c6f5e79eb9dbde4b508dedda95c", "name": "SCH", "decimals": 18 },
+    { "addr": "0x0947b0e6d821378805c9598291385ce7c791a6b2", "name": "LND", "decimals": 18 },
+    { "addr": "0x24a77c1f17c547105e14813e517be06b0040aa76", "name": "LIVE", "decimals": 18 },
+    { "addr": "0x28dee01d53fed0edf5f6e310bf8ef9311513ae40", "name": "XBP", "decimals": 18 },
+    { "addr": "0x55296f69f40ea6d20e478533c15a6b08b654e758", "name": "XYO", "decimals": 18 },
+    { "addr": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c", "name": "BERRY", "decimals": 14 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "WABI", "base": "ETH" }
