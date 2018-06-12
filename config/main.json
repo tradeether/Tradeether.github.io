@@ -1007,6 +1007,7 @@
     { "addr": "0x28dee01d53fed0edf5f6e310bf8ef9311513ae40", "name": "XBP", "decimals": 18 },
     { "addr": "0x55296f69f40ea6d20e478533c15a6b08b654e758", "name": "XYO", "decimals": 18 },
     { "addr": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c", "name": "BERRY", "decimals": 14 },
+    { "addr": "0x0947b0e6d821378805c9598291385ce7c791a6b2", "name": "JOI", "decimals": 18 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
   "defaultPair": { "token": "WABI", "base": "ETH" }
